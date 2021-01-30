@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "stack": "java"
+    }, {
+        "id": 2,
+        "stack": "javascript"
+    }, {
+        "id": 3,
+        "stack": "bash"
+    }, {
+        "id": 4,
+        "stack": "css"
+    }, {
+        "id": 5,
+        "stack": "html"
+    }, {
+        "id": 6,
+        "stack": "angularjs"
+    }, {
+        "id": 7,
+        "stack": "angular"
+    }, {
+        "id": 8,
+        "stack": "java"
+    }, {
+        "id": 9,
+        "stack": "react"
+    }, {
+        "id": 10,
+        "stack": "python"
+    }, {
+        "id": 11,
+        "stack": "nodeJS"
+    }, {
+        "id": 12,
+        "stack": "wordpress"
+    }, {
+        "id": 13,
+        "stack": "php"
+    }, {
+        "id": 14,
+        "stack": "laravel"
+    }, {
+        "id": 15,
+        "stack": "next js"
+    }, {
+        "id": 16,
+        "stack": "vue js"
+    }, {
+        "id": 17,
+        "stack": "express js"
+    }
+]
